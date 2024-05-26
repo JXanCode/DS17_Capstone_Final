@@ -13,3 +13,6 @@ The app is deployed using Streamlit and contains two pages: Explore and Predict.
 ‘Explore’ demonstrates the relationship between U.S. Treasury yields and the S&P 500 Index using Plotly visualizations.
 
 ‘Predict’ includes the inputs for the model as well as a description of variables.
+
+
+Link to app: https://ds17-capstone-treasury-yields.streamlit.app/
